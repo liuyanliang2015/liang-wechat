@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/scan/scan",
+    "pages/tuya/tuya",
+    "pages/map/map"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#eeeeee"
+  },
+  "tabBar": {
+    "color": "#a2a2a2",
+    "selectedColor": "#32be8c",
+    "position" :"buttom",
+    "list": [
+      {
+        "pagePath": "pages/scan/scan",
+        "text": "关注",
+        "iconPath": "image/tabbars/tabBar_My@3x.png",
+        "selectedIconPath": "image/tabbars/tabBar_My_c@3x.png"
+      },
+      {
+        "pagePath": "pages/tuya/tuya",
+        "text": "涂鸦",
+        "iconPath": "image/tabbars/tabBar_Waybi@2x.png",
+        "selectedIconPath": "image/tabbars/tabBar_Waybi_c@2x.png"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "text": "地图",
+        "iconPath": "image/tabbars/tabBar_Waybi@2x.png",
+        "selectedIconPath": "image/tabbars/tabBar_Waybi_c@2x.png"
+      }
+      
+    ]
+  }
+}

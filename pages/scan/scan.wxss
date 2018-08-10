@@ -1,0 +1,14 @@
+/* pages/profile/profile.wxss */ 
+page{
+   background-color: #efeff4;
+}
+
+.head_text{ 
+
+  display: flex;
+  align-items: center;
+
+  border-top: 2rpx solid #eee;
+  margin-left: 250rpx;
+}
+

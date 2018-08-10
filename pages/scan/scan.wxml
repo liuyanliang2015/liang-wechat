@@ -1,0 +1,8 @@
+
+<view class='view_head'>
+  <image  src='../../image/scan/qrcode.png'/>
+</view>
+
+<view class='head_text'>
+  <text>关注我就对了</text>
+</view>
